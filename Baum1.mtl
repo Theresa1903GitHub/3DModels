@@ -1,0 +1,12 @@
+# Blender 4.3.1 MTL File: 'NaturePack_Models.blend'
+# www.blender.org
+
+newmtl Nature_Pack_Palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/hause/AppData/Local/Temp/5136fdab-56f1-4f98-b5fe-9266c468b42a_LowPolyNaturePackLite_Blend.zip.42a/LowPolyNaturePackLite_Blend/textures/Palette_Gradient.png
